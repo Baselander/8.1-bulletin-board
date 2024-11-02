@@ -1,0 +1,114 @@
+body {
+    background-color:lightgray;
+}
+
+h1 {
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    color:dodgerblue;
+}
+
+h5 {
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    color:dodgerblue;
+}
+
+h2 {
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    color:dodgerblue;
+}
+
+h3 {
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+    color:dodgerblue;
+}
+
+.items {
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+.foot {
+    display: flex;
+    background-color: lightblue;
+    align-content: center;
+    justify-content: center;
+    font-family: italic;
+}
+
+.notice {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color:red;
+}
+
+.DH {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 15px;
+    padding: 15px;
+}
+
+.DHW {
+    color:red;
+}
+
+.DHI {
+    width: 710.1px;
+    height: 1010.25px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+}
+
+.q1review {
+    display: flex;
+    flex-direction: column;
+    border: 3px;
+    border-color:red;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+}
+
+.reviews1 {
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+    color:red;
+}
+
+.packs1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color:red;
+}
+
+.file-link {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: italic;
+    color:deepskyblue;
+}
